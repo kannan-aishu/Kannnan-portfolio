@@ -14,8 +14,7 @@ function AboutCard() {
             I am currently learning as a Full Stack software developer at Vites
             Technologies with hands-on Live projects.
             <br />
-            I have completed Bachelor of Arts (BA) in English and Literature at
-            Calicut University.
+            I have completed (B.com) Bachelor of Commerce in Cherraan's Arts Science College.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
